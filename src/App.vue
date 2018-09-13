@@ -6,7 +6,7 @@
                prominent>
       <v-toolbar-title><img alt="logo"
            height="16"
-           src='./assets/logo.svg'
+          
            width="128"></v-toolbar-title>
       <v-btn icon
              style="margin-left:auto">
